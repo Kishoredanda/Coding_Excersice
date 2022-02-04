@@ -1,2 +1,2 @@
 # Coding Excersice
-Converted the unstructured json files to structured data and added a ER diagram to the relation data model. Eexcuted SQL queries to answer business questions in python using "pandasql" library. Data Quality issues has been captured. Finally, an email has been prepared to business stakeholders.
+Converted the unstructured json files to structured data and added a ER diagram (ER_diagram.pdf) to the relation data model. Eexcuted SQL queries to answer business questions in python using "pandasql" library. Data Quality issues has been captured. Finally, an email has been prepared to business stakeholders(Business_stakeholders_mail.pdf). Please refer Fetch_code.ipynb for the code.
